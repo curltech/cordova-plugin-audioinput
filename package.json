@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-audioinput4curltech",
-  "version": "1.0.2-curltech",
+  "name": "cordova-plugin-audioinput-curltech",
+  "version": "1.0.2",
   "description": "This cordova plugin enables audio capture from the device microphone, by in (near) real-time forwarding raw audio data to the web layer of your application.",
   "cordova": {
-    "id": "cordova-plugin-audioinput",
+    "id": "cordova-plugin-audioinput-curltech",
     "platforms": [
       "android",
       "ios"
